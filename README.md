@@ -13,7 +13,7 @@ Uma plataforma minimalista e centralizada para descoberta e divulgação de even
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-[🚀 Demo](https://calendario-tech.vercel.app) • [📖 Manifesto](https://calendario-tech.vercel.app/manifesto) • [🐛 Issues](https://github.com/jeanmendanhaa/calendario-tech/issues) • [💬 Discussões](https://github.com/jeanmendanhaa/calendario-tech/discussions)
+[🚀 SITE](https://v0-calendario-tech-platform.vercel.app/) • [📖 Manifesto](https://calendario-tech.vercel.app/manifesto) • [🐛 Issues](https://github.com/jeanmendanhaa/calendario-tech/issues) • [💬 Discussões](https://github.com/jeanmendanhaa/calendario-tech/discussions)
 
 </div>
 
