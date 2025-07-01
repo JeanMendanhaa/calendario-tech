@@ -13,7 +13,7 @@ Uma plataforma minimalista e centralizada para descoberta e divulgação de even
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-[🚀 Demo](https://calendario-tech.vercel.app) • [📖 Manifesto](https://calendario-tech.vercel.app/manifesto) • [🐛 Issues](https://github.com/jeanmendanha/calendario-tech/issues) • [💬 Discussões](https://github.com/jeanmendanha/calendario-tech/discussions)
+[🚀 Demo](https://calendario-tech.vercel.app) • [📖 Manifesto](https://calendario-tech.vercel.app/manifesto) • [🐛 Issues](https://github.com/jeanmendanhaa/calendario-tech/issues) • [💬 Discussões](https://github.com/jeanmendanhaa/calendario-tech/discussions)
 
 </div>
 
@@ -84,7 +84,7 @@ O **CalendarioTech** surge como uma solução para a fragmentação das informa�
 
 1. **Clone o repositório**
 \`\`\`bash
-git clone https://github.com/jeanmendanha/calendario-tech.git
+git clone https://github.com/jeanmendanhaa/calendario-tech.git
 cd calendario-tech
 \`\`\`
 
@@ -160,7 +160,7 @@ calendario-tech/
 Adoramos contribuições da comunidade! Aqui está como você pode ajudar:
 
 ### 🐛 Reportando Bugs
-1. Verifique se o bug já foi reportado nas [Issues](https://github.com/jeanmendanha/calendario-tech/issues)
+1. Verifique se o bug já foi reportado nas [Issues](https://github.com/jeanmendanhaa/calendario-tech/issues)
 2. Crie uma nova issue com:
    - Descrição clara do problema
    - Passos para reproduzir
@@ -168,7 +168,7 @@ Adoramos contribuições da comunidade! Aqui está como você pode ajudar:
    - Informações do ambiente
 
 ### 💡 Sugerindo Funcionalidades
-1. Abra uma [Discussion](https://github.com/jeanmendanha/calendario-tech/discussions)
+1. Abra uma [Discussion](https://github.com/jeanmendanhaa/calendario-tech/discussions)
 2. Descreva a funcionalidade desejada
 3. Explique o caso de uso
 4. Aguarde feedback da comunidade
@@ -271,9 +271,9 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LIC
 ## 👥 Comunidade
 
 ### 💬 Onde Conversar
-- **[GitHub Discussions](https://github.com/jeanmendanha/calendario-tech/discussions)** - Discussões gerais
-- **[Issues](https://github.com/jeanmendanha/calendario-tech/issues)** - Bugs e funcionalidades
-- **[Twitter](https://twitter.com/jeanmendanha)** - Updates e novidades
+- **[GitHub Discussions](https://github.com/jeanmendanhaa/calendario-tech/discussions)** - Discussões gerais
+- **[Issues](https://github.com/jeanmendanhaa/calendario-tech/issues)** - Bugs e funcionalidades
+- **[Twitter](https://twitter.com/jeanmendanhaa)** - Updates e novidades
 
 ### 🏆 Contribuidores
 
@@ -283,8 +283,8 @@ Agradecemos a todos que contribuem para o projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/jeanmendanha">
-        <img src="https://github.com/jeanmendanha.png" width="100px;" alt="Jean Mendanha"/>
+      <a href="https://github.com/jeanmendanhaa">
+        <img src="https://github.com/jeanmendanhaa.png" width="100px;" alt="Jean Mendanha"/>
         <br />
         <sub><b>Jean Mendanha</b></sub>
       </a>
@@ -307,10 +307,10 @@ Agradecemos a todos que contribuem para o projeto:
 
 <div align="center">
 
-**Desenvolvido com ❤️ por [Jean Mendanha](https://github.com/jeanmendanha) e a comunidade**
+**Desenvolvido com ❤️ por [Jean Mendanha](https://github.com/jeanmendanhaa) e a comunidade**
 
 **Powered by IA • Open Source Forever**
 
-[⭐ Star no GitHub](https://github.com/jeanmendanha/calendario-tech) • [🐛 Reportar Bug](https://github.com/jeanmendanha/calendario-tech/issues) • [💡 Sugerir Feature](https://github.com/jeanmendanha/calendario-tech/discussions)
+[⭐ Star no GitHub](https://github.com/jeanmendanhaa/calendario-tech) • [🐛 Reportar Bug](https://github.com/jeanmendanhaa/calendario-tech/issues) • [💡 Sugerir Feature](https://github.com/jeanmendanhaa/calendario-tech/discussions)
 
 </div>
