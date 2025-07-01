@@ -193,7 +193,7 @@ export default function ManifestoPage() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a
-              href="https://github.com/jeanmendanha/calendario-tech"
+              href="https://github.com/jeanmendanhaa/calendario-tech"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-2 bg-dracula-bg text-dracula-purple px-6 py-3 rounded-lg font-semibold hover:bg-dracula-current-line transition-colors"
